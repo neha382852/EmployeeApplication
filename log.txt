@@ -1,0 +1,7 @@
+Message : Exception raised:Qualification field can't be empty.<br/>
+StackTrace :   at EmployeeApplication.Employee.add_employee() in c:\users\hp-pc\documents\visual studio 2015\Projects\EmployeeApplication\EmployeeApplication\Employee.cs:line 31 
+Date :26-07-2018 02:03:16
+Message : Exception raised:Qualification field can't be empty.<br/>
+StackTrace :   at EmployeeApplication.Employee.DispMess(String _qualification) in c:\users\hp-pc\documents\visual studio 2015\Projects\EmployeeApplication\EmployeeApplication\Employee.cs:line 26
+   at EmployeeApplication.Employee.add_employee() in c:\users\hp-pc\documents\visual studio 2015\Projects\EmployeeApplication\EmployeeApplication\Employee.cs:line 58 
+Date :26-07-2018 02:16:43

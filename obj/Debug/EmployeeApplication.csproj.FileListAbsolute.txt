@@ -1,0 +1,6 @@
+c:\users\hp-pc\documents\visual studio 2015\Projects\EmployeeApplication\EmployeeApplication\bin\Debug\EmployeeApplication.exe.config
+c:\users\hp-pc\documents\visual studio 2015\Projects\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.csprojResolveAssemblyReference.cache
+c:\users\hp-pc\documents\visual studio 2015\Projects\EmployeeApplication\EmployeeApplication\bin\Debug\EmployeeApplication.exe
+c:\users\hp-pc\documents\visual studio 2015\Projects\EmployeeApplication\EmployeeApplication\bin\Debug\EmployeeApplication.pdb
+c:\users\hp-pc\documents\visual studio 2015\Projects\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.exe
+c:\users\hp-pc\documents\visual studio 2015\Projects\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.pdb
